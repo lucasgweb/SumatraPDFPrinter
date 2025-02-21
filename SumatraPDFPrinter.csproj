@@ -5,6 +5,7 @@
     <PackageId>SumatraPDFPrinter</PackageId>
     <Version>1.0.4</Version>
     <Authors>Lucas Godoy</Authors>
+     <PackageReadmeFile>README.md</PackageReadmeFile>
     <Description>Package for printing PDFs with SumatraPDF</Description>
     <ImplicitUsings>enable</ImplicitUsings>
     <IncludeContentInPack>true</IncludeContentInPack>
