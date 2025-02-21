@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageId>SumatraPDFPrinter</PackageId>
+    <Version>1.0.4</Version>
+    <Authors>Lucas Godoy</Authors>
+    <Description>Package for printing PDFs with SumatraPDF</Description>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <IncludeContentInPack>true</IncludeContentInPack>
+    <ContentTargetFolders>content</ContentTargetFolders>
+    <PackageLicenseExpression>EPL-2.0</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/lucasgweb/SumatraPDFPrinte</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="SumatraPDF.exe" PackagePath="content\SumatraPDF.exe" />
+    <Content Include="build\SumatraPDFPrinter.targets" PackagePath="build\SumatraPDFPrinter.targets" />
+  </ItemGroup>
+
+</Project>
