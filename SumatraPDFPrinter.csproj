@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <PackageId>SumatraPDFPrinter</PackageId>
-    <Version>1.0.4</Version>
+    <Version>1.0.5</Version>
     <Authors>Lucas Godoy</Authors>
      <PackageReadmeFile>README.md</PackageReadmeFile>
     <Description>Package for printing PDFs with SumatraPDF</Description>
