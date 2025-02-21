@@ -45,6 +45,6 @@ Make sure that:
 
 ## 📜 License
 
-This library is licensed under the MIT License. Feel free to modify and use it in your projects.
+This library is licensed under the Eclipse Public License 2.0. Feel free to modify and use it in your projects.
 
 💡 Contributions are welcome! If you find a bug or have an improvement, feel free to submit a pull request or open an issue.
