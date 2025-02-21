@@ -11,7 +11,7 @@
     <IncludeContentInPack>true</IncludeContentInPack>
     <ContentTargetFolders>content</ContentTargetFolders>
     <PackageLicenseExpression>EPL-2.0</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/lucasgweb/SumatraPDFPrinte</RepositoryUrl>
+    <RepositoryUrl>https://github.com/lucasgweb/SumatraPDFPrinter</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <Nullable>enable</Nullable>
   </PropertyGroup>
